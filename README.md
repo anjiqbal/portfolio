@@ -7,9 +7,6 @@ Personal portfolio that has links to some of my projects and client work.
 ![alt text](https://github.com/anjiqbal/portfolio/blob/main/images/home.png)
 
 
-## How It's Made:
+## How It Was Made:
 
-**Tech used:** HTML, CSS, JavaScript
-
-
-
+**Tech used:** HTML5, CSS3, Saas, JavaScript
